@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+Lab 2 Class NB.Rmd
+OPIM510 Lab 2 Starter Notebook.Rmd
